@@ -2,4 +2,6 @@
 llllllllllllllllllllllllllll
 hokanohitoga ijitta
 
-iiiiiiiiiiiiii
+<<<<<<< HEAD
+iiiiiiiiii
+atoitijikan
